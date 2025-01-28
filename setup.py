@@ -12,7 +12,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/zagran/wayforpay",
     packages=setuptools.find_packages(),
-    install_requires=["requests==2.31.0", ],
+    install_requires=["requests==2.32.2", ],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
